@@ -2,7 +2,7 @@
 
 ### 爆破字典管理工具、自动去重、分类存储、多类字典生成
 
-DictManager 是一个功能强大的爆破字典管理工具，它允许用户创建、存储、去重和导出字典数据。该工具改写自 exhuz3u 的程序 [data_dict](https://github.com/exhuz3u/data_dict)，增加了删除类型功能和导入导出的编码选项。
+DictManager 是一个基于SQL爆破字典管理工具，允许用户创建、存储、去重和导出字典数据。该工具改写自 exhuz3u 的程序 [data_dict](https://github.com/exhuz3u/data_dict)，增加了删除类型功能和导入导出的编码选项。
 
 ### 功能：
 
