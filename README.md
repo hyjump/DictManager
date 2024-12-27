@@ -1,6 +1,6 @@
 # DictManager
 
-### 爆破字典管理工具、自动去重、分类存储、多类字典生成，改写自exhuz3u的程序!(data_dict)[https://github.com/exhuz3u/data_dict],添加了删除类型功能和导入导出的编码选项
+### 爆破字典管理工具、自动去重、分类存储、多类字典生成，改写自exhuz3u的程序(data_dict)[https://github.com/exhuz3u/data_dict],添加了删除类型功能和导入导出的编码选项
 
 ### example:
 
